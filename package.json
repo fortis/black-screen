@@ -31,7 +31,7 @@
     "font-awesome": "4.6.3",
     "fs-extra": "0.30.0",
     "fuzzaldrin": "2.1.0",
-    "immutable": "3.8.1",
+    "immutable": "4.3.8",
     "lodash": "4.13.1",
     "mode-to-permissions": "0.0.2",
     "node-ansiparser": "2.2.0",
